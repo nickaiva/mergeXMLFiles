@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+
+ <answer>
+	<userData>
+		<ip>
+			127.0.0.1
+		</ip>
+		<date>
+			Wed Apr 04 11:10:07 EEST 2007
+		</date>
+		<sessid>
+			35BA51CDF0DF4213EE5DF4E82E711C7A
+		</sessid>
+		<age />
+		<sex />
+		<education />
+		<country>
+			<![CDATA[ΒΟΥΛΓΑΡΙΑ]]>
+		</country>
+		<municipality />
+		<profecion>
+			<![CDATA[Επιλέξτε]]>
+		</profecion>
+	</userData>
+		<question1>
+				<responce><![CDATA[2-3 φορές την βδομάδα]]></responce>
+				<other />
+		</question1>
+		<question2>
+				<responce><![CDATA[Τα στοιχεία ενός συγκεκριμένου επαγγελματία - επιχείρησης]]></responce>
+				<other />
+		</question2>
+		<question3>
+				<responce><![CDATA[Οχι]]></responce>
+				<other />
+		</question3>
+		<question4>
+				<responce><![CDATA[Ναι]]></responce>
+				<other />
+		</question4>
+		<question5>
+				<responce><![CDATA[Οχι]]></responce>
+		</question5>
+		<question6>
+				<responce><![CDATA[]]></responce>
+				<other />
+		</question6>
+
+ </answer>

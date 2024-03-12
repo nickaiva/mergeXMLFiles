@@ -1,0 +1,850 @@
+<html>
+
+<head>
+<title>copy file,copy files,copy files java,copying files from one hard drive to
+another,java copy files</title>
+<LINK href="../../../../roseindia.css" title="compact" rel="stylesheet" type="text/css">
+</head>
+<body>
+<!-- Top -->
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+  <tr>
+    <td>
+      <div align="center">
+        <table border="0" cellPadding="0" cellSpacing="0" width="100%">
+            <tr>
+              <td align="middle"  colSpan="3" width="100%">
+                <table border="0" cellPadding="0" cellSpacing="0" width="100%">
+                  <tr>
+                    <td align="middle"  colSpan="3" width="100%">
+                      <p align="center"><font size="1" face="arial">
+                        <a href="http://www.roseindia.net" style="font-family: Arial; font-size: 8pt; color: #000080">Home</a> 
+                      | <a href="http://www.roseindia.net/jsp/index.shtml"   style="font-family: Arial; font-size: 8pt; color: #000080">JSP</a>
+                      | <a href="http://www.roseindia.net/ejb/"  style="font-family: Arial; font-size: 8pt; color: #000080">EJB</a> 
+                      | <a href="http://www.roseindia.net/jdbc/index.shtml"  style="font-family: Arial; font-size: 8pt; color: #000080">JDBC</a>
+
+                      | <a href="http://www.roseindia.net/servlets/index.shtml"  style="font-family: Arial; font-size: 8pt; color: #000080">Java Servlets</a> 
+
+                      | <a href="http://www.roseindia.net/wap/index.htm"  style="font-family: Arial; font-size: 8pt; color: #000080">WAP</a>&nbsp;
+                      | <a href="http://www.roseindia.net/freehosting/freejsphosting.htm "  style="font-family: Arial; font-size: 8pt; color: #000080">Free JSP Hosting</a>&nbsp;
+                      
+
+					  | <a href="http://www.roseindia.net/spring/index.shtml"style="font-family: Arial; font-size: 8pt; color: #000080">Spring Framework</a>
+
+					  | <a href="http://www.roseindia.net/webservices/" style="font-family: Arial; font-size: 8pt; color: #000080">Web Services</a>
+
+					  | <a href="http://www.roseindia.net/bioinformatics/bioinformatics_resources.shtml" style="font-family: Arial; font-size: 8pt; color: #000080">BioInformatics</a>
+
+					  | <a href="http://roseindia.net/jsf" style="font-family: Arial; font-size: 8pt; color: #000080">Java Server Faces</a>
+
+                      | <a href="http://www.roseindia.net/jboss/index.htm"  style="font-family: Arial; font-size: 8pt; color: #000080">Jboss 3.0 tutorial</a> 
+
+                      | <a href="http://www.roseindia.net/hibernate/index.shtml"  style="font-family: Arial; font-size: 8pt; color: #000080">Hibernate 3.0</a> 
+
+                      
+					  | <a href="http://www.roseindia.net/xml/dom/"  style="font-family: Arial; font-size: 8pt; color: #000080">XML</a> 					  
+
+					   </font></p>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+<tr>
+<td align="center">
+<p>&nbsp;</p>
+
+</td>
+
+  </tr>
+
+
+
+</table>
+
+<!-- Top -->
+<!-- Left -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" width="1%">
+
+
+<table bgColor="#ffffff" border="1" borderColor="#ffcc00" cellPadding="0" cellSpacing="0" width="120">
+  <tr>
+    <td bgColor="#ffcc00" width="100%">
+      <p align="center"><font size="5">Features</font></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td  width="100%" bgColor="#ffffff" height="130" >
+
+		<a href="http://www.allcoolloans.com/" target="_blank"><img border="0" src="http://www.roseindia.net/images/ln.gif"></a>
+
+
+    </td>
+  </tr>
+ <tr>
+	<td align="center" height="140">
+		<a href="#book" ><img border="0" src="http://www.roseindia.net/images/books.gif">
+		</a>
+	</td>
+ </tr>
+
+
+ <tr>
+	<td align="center"  bgcolor="#FFCC00">
+	  <strong>Technology</strong></td>
+ </tr>
+
+ <tr>
+	<td align="LEFT" >
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/">Tech. Home</a></font><br>
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/gps/">GPS</a></font><br>
+
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/networking/osi.shtml">OSI</a></font><br>
+	
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/wimax/">WiMAX</a></font><br>
+
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/voip/">VoIP</a></font><br>
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/wifi/">WiFi</a></font><br>
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/hsdpa/">HSDPA</a></font><br>
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/LBS/">LBS</a></font><br>
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/vehicle-tracking/index.shtml">Vehicle Tracking</a></font><br>
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/technology/scada/index.shtml">SCADA</a></font><br>
+
+		&nbsp;&nbsp;<font color="#000080" size="2"><a href="http://www.roseindia.net/whatis/index.shtml">Tech. What is?</a></font><br>
+
+
+
+
+
+
+ </td>
+</tr>
+
+
+
+
+ <tr>
+	<td align="center">
+	<a href="http://www.roseindia.net/javatutorials/index.shtml"><img border="0" src="/images/javatutorials.gif"></a>
+	</td>
+ </tr>
+
+ <tr>
+	<td align="center">
+	<a href="http://www.roseindia.net/software-tutorials/directory/ratings/1"><img border="0" src="/images/BrowseTutorials.gif"></a>
+	</td>
+ </tr>
+
+
+
+
+
+ <tr>
+	<td align="center">
+	<a href="http://roseindia.net/jobs/jobs_at_roseindia.shtml">Jobs At RoseIndia.net!</a>
+
+	</td>
+ </tr>
+
+
+
+
+  <tr>
+    <td align="middle" bgColor="#cccc00" width="100%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="middle" bgColor="#cccc00" width="100%">
+      <form action="http://groups.yahoo.com/subscribe/parisonz" method="get" target="_blank">
+        <table bgColor="#ffffcc" border="0" cellPadding="2" cellSpacing="0" width="100%">
+          <tbody>
+            <tr>
+              <td align="middle"><b><font color="#ff0000">Join For Newsletter</font></b></td>
+            </tr>
+            <tr>
+              <td align="middle"><input name="user" size="18" value="E-Mail"></td>
+            </tr>
+            <tr align="middle">
+              <td><input alt="Join News Group" border="0" name="I3" src="http://groups.yahoo.com/img/ui/join.gif" type="image" width="91" height="52"><br>
+                Powered by <a href="http://groups.yahoo.com/">groups.yahoo.com</a>
+				<br>
+				<a href="http://groups.yahoo.com/group/parisonz/" target="_blank">Visit Group! Post Questions!</a>
+				</td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+    </td>
+  </tr>
+
+
+
+
+ 
+</table>
+
+</td>
+<td valign="top" width="99%">
+
+
+
+ 
+
+
+
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="98%" >
+  <tr>
+    <td width="100%">
+      <h1 align="left"><font color="#000080">Java - Copying one file to another</font></h1>
+
+<div style="float: left; padding: 0px; margin: 0px; border-width: 1px 1px 1px 1px; border-style: solid; border-color: white; background-color: white">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-0714075272818912";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000080";
+google_color_text = "000080";
+google_color_url = "000080";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+</div>
+
+      <p align="center">
+      <a href="CreateFile.shtml"><img src="/images/previous.gif" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;<a href="index.shtml"><img src="/images/bt_home.gif" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="FileSize.shtml"><img src="/images/next.gif" border="0"></a></p>
+      
+      
+<align="LEFT"><b><font color="#000080">Introduction</font></b>
+        
+
+<p><font color="#000080"><font size="3">This example illustrates </font>how to copy contents from one
+file to another file. This topic is related to the I/O (input/output) of <code>java.io</code>
+package.</font></p>
+<p><font color="#000080">In this example we are using File class of</font> <font color="#0000FF"><i>java.io</i>
+</font><font color="#000080">package. The File class is an abstract representation of file and
+directory pathnames. This class is an abstract, system-independent view of
+hierarchical pathnames. An <em>abstract pathname</em> has two components:</font></p>
+<ol>
+  <li><font color="#000080">An optional system-dependent <em>prefix</em> string,<br>
+    such as a disk-drive specifier, <code>&quot;/&quot;</code> for the UNIX root
+    directory, or <code>&quot;\\&quot;</code> for a Win32 UNC pathname, and</font></li>
+  <li>
+      
+      <font color="#000080">
+      
+	  A sequence of zero or more string <em>names</em>.</font></li>
+</ol>
+<p><b><font color="#000080">Explanation</font></b></p>
+
+<p><font color="#000080">This program copies one file to another file. We will be declaring a function
+called <i>copyfile</i> which copies the contents from one specified file to
+another specified file.</font></p>
+<p><i><font color="#0000FF">copyfile(String srFile, String dtFile)</font></i></p>
+<div style="float: left; padding: 0px; margin: 0px; border-width: 1px 1px 1px 1px; border-style: solid; border-color: white; background-color: white">
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-0714075272818912";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000080";
+google_color_text = "000080";
+google_color_url = "000080";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+<p><font color="#000080">The function copyfile(String srFile, String dtFile) takes both file name as
+parameter. The function creates a new File instance for the file name passed as
+parameter</font></p>
+<p><i><font color="#0000FF">File f1 = new File(srFile);<br/></font></i><font color="#0000FF"><i>File f2 = new
+File(dtFile);&nbsp;</i></font></p>
+<p><font color="#000080">and creates another InputStream instance for the input object and
+OutputStream instance for the output object passed as parameter</font></p>
+<p><font color="#0000FF"><i>InputStream in = new
+FileInputStream(f1);<br/>OutputStream out = new FileOutputStream(f2);&nbsp;</i></font></p>
+<p><font color="#000080">and then create a byte type buffer for buffering the contents of one file and
+write to another specified file from the first one specified file.</font></p>
+<p><i><font color="#008080">// For creating a byte type buffer<br/></font><font color="#0000FF">byte[] buf = new byte[1024];<br/></font><font color="#008080">// For writing to another specified file from buffer
+buf<br/></font></i><font color="#0000FF"><i>out.write(buf, 0, len);</i></font></p>
+<p><b><font color="#000080">Code of the Program :&nbsp;</font></b></p>
+<div align="left" class="java">
+<table border="0" cellpadding="3" cellspacing="0" bgcolor="#FFFFCC">
+   <tr>
+  <!-- start source code -->
+   <td nowrap="nowrap" valign="top" align="left">
+    <code>
+<font color="#7f0055"><b>import&nbsp;</b></font><font color="#000000">java.io.*;</font><br/>
+<font color="#ffffff"></font><br/>
+<font color="#7f0055"><b>public&nbsp;class&nbsp;</b></font><font color="#000000">CopyFile</font><font color="#000000">{</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;</font><font color="#7f0055"><b>private&nbsp;static&nbsp;</b></font><font color="#7f0055"><b>void&nbsp;</b></font><font color="#000000">copyfile</font><font color="#000000">(</font><font color="#000000">String&nbsp;srFile,&nbsp;String&nbsp;dtFile</font><font color="#000000">){</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>try</b></font><font color="#000000">{</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">File&nbsp;f1&nbsp;=&nbsp;</font><font color="#7f0055"><b>new&nbsp;</b></font><font color="#000000">File</font><font color="#000000">(</font><font color="#000000">srFile</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">File&nbsp;f2&nbsp;=&nbsp;</font><font color="#7f0055"><b>new&nbsp;</b></font><font color="#000000">File</font><font color="#000000">(</font><font color="#000000">dtFile</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">InputStream&nbsp;in&nbsp;=&nbsp;</font><font color="#7f0055"><b>new&nbsp;</b></font><font color="#000000">FileInputStream</font><font color="#000000">(</font><font color="#000000">f1</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#3f7f5f">//For&nbsp;Append&nbsp;the&nbsp;file.</font><br/>
+<font color="#3f7f5f">//&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OutputStream&nbsp;out&nbsp;=&nbsp;new&nbsp;FileOutputStream(f2,true);</font><br/>
+<font color="#ffffff"></font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#3f7f5f">//For&nbsp;Overwrite&nbsp;the&nbsp;file.</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">OutputStream&nbsp;out&nbsp;=&nbsp;</font><font color="#7f0055"><b>new&nbsp;</b></font><font color="#000000">FileOutputStream</font><font color="#000000">(</font><font color="#000000">f2</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff"></font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>byte</b></font><font color="#000000">[]&nbsp;</font><font color="#000000">buf&nbsp;=&nbsp;</font><font color="#7f0055"><b>new&nbsp;</b></font><font color="#7f0055"><b>byte</b></font><font color="#000000">[</font><font color="#990000">1024</font><font color="#000000">]</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>int&nbsp;</b></font><font color="#000000">len;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>while&nbsp;</b></font><font color="#000000">((</font><font color="#000000">len&nbsp;=&nbsp;in.read</font><font color="#000000">(</font><font color="#000000">buf</font><font color="#000000">))&nbsp;</font><font color="#000000">&gt;&nbsp;</font><font color="#990000">0</font><font color="#000000">){</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">out.write</font><font color="#000000">(</font><font color="#000000">buf,&nbsp;</font><font color="#990000">0</font><font color="#000000">,&nbsp;len</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">}</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">in.close</font><font color="#000000">()</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">out.close</font><font color="#000000">()</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">System.out.println</font><font color="#000000">(</font><font color="#2a00ff">&#34;File&nbsp;copied.&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">}</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>catch</b></font><font color="#000000">(</font><font color="#000000">FileNotFoundException&nbsp;ex</font><font color="#000000">){</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">System.out.println</font><font color="#000000">(</font><font color="#000000">ex.getMessage</font><font color="#000000">()&nbsp;</font><font color="#000000">+&nbsp;</font><font color="#2a00ff">&#34;&nbsp;in&nbsp;the&nbsp;specified&nbsp;directory.&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">System.exit</font><font color="#000000">(</font><font color="#990000">0</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">}</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>catch</b></font><font color="#000000">(</font><font color="#000000">IOException&nbsp;e</font><font color="#000000">){</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">System.out.println</font><font color="#000000">(</font><font color="#000000">e.getMessage</font><font color="#000000">())</font><font color="#000000">;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">}</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;</font><font color="#000000">}</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;</font><font color="#7f0055"><b>public&nbsp;static&nbsp;</b></font><font color="#7f0055"><b>void&nbsp;</b></font><font color="#000000">main</font><font color="#000000">(</font><font color="#000000">String</font><font color="#000000">[]&nbsp;</font><font color="#000000">args</font><font color="#000000">){</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>switch</b></font><font color="#000000">(</font><font color="#000000">args.length</font><font color="#000000">){</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>case&nbsp;</b></font><font color="#990000">0</font><font color="#000000">:&nbsp;System.out.println</font><font color="#000000">(</font><font color="#2a00ff">&#34;File&nbsp;has&nbsp;not&nbsp;mentioned.&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">System.exit</font><font color="#000000">(</font><font color="#990000">0</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>case&nbsp;</b></font><font color="#990000">1</font><font color="#000000">:&nbsp;System.out.println</font><font color="#000000">(</font><font color="#2a00ff">&#34;Destination&nbsp;file&nbsp;has&nbsp;not&nbsp;mentioned.&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">System.exit</font><font color="#000000">(</font><font color="#990000">0</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>case&nbsp;</b></font><font color="#990000">2</font><font color="#000000">:&nbsp;copyfile</font><font color="#000000">(</font><font color="#000000">args</font><font color="#000000">[</font><font color="#990000">0</font><font color="#000000">]</font><font color="#000000">,args</font><font color="#000000">[</font><font color="#990000">1</font><font color="#000000">])</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">System.exit</font><font color="#000000">(</font><font color="#990000">0</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>default&nbsp;</b></font><font color="#000000">:&nbsp;System.out.println</font><font color="#000000">(</font><font color="#2a00ff">&#34;Multiple&nbsp;files&nbsp;are&nbsp;not&nbsp;allow.&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">System.exit</font><font color="#000000">(</font><font color="#990000">0</font><font color="#000000">)</font><font color="#000000">;</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">}</font><br/>
+<font color="#ffffff">&nbsp;&nbsp;</font><font color="#000000">}</font><br/>
+<font color="#000000">}</font></code>
+    
+   </td>
+  <!-- end source code -->
+   </tr>
+</table>
+</div>
+      <p>You can even use this program for copying files from one hard drive to
+      another hard drive.</p>
+
+<p><a href="CopyFile.java"><b>Download File Copy Example</b></a></p>
+
+
+
+
+      <p align="center">
+      <a href="CreateFile.shtml"><img src="/images/previous.gif" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;<a href="index.shtml"><img src="/images/bt_home.gif" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="FileSize.shtml"><img src="/images/next.gif" border="0"></a></p>
+
+
+      </td>
+  </tr>
+</table>
+</center>
+<!-- Bottom -->
+
+
+
+
+
+
+<style>
+/*COMMENTS
+*------------------------------------*/
+
+.postedby {
+	padding: 0 0 0 18px;
+	background: url(images/abullet.gif) no-repeat 0 4px;
+	}
+	
+h3.formtitle {
+	margin : 0px 0px 0px 0px;
+	border-bottom: 1px dotted #ccc;
+	padding-bottom: 8px;
+	}
+
+.commentbody {
+	border-top: 1px dotted #ccc;
+	}
+	
+/*gray box*/
+.submitcomment, #submitcomment, #currentcomments, #rating, .textad {
+	background-color: #F5F5F5;
+	border: 1px dotted #ccc;
+	padding: 5px;
+	padding: 5px;
+	margin: 20px 0px 0px 0px;
+	}
+
+
+/*FORMS
+*------------------------------------*/
+
+.form {
+	font-size: 70%;
+	background-color: #FAFAFA;
+	border: solid 1px #C6C6C6;
+	padding: 2px;
+	}
+
+.formtext {
+	background-color: #FAFAFA;
+	border: solid 1px #C6C6C6;
+	padding: 2px;
+	border-bottom: 1px dotted #ccc
+	}
+
+.form:hover, .formtext:hover {
+	background: white;
+	}
+	
+.form:focus, .formtext:focus {
+	background: white;
+	border: solid 1px #000000;
+	}
+	
+.submit {
+	background-color: #D3D3D3;
+	border: solid 1px #C6C6C6;
+	border-right:  solid 1px #9A9A9A;
+	border-bottom:  solid 1px #9A9A9A;
+	}
+	
+.submit:hover, .submit:focus {
+	background: #EDEDED;
+	}
+	</style>
+
+	
+	<div id="currentcomments" align="left" class="submitcomment"><h3 class="formtitle">Current Comments</h3>
+2 comments so far (<a href="#post">post your own</a>)
+ <a href="http://www.roseindia.net/tutorialhelp/allcomments/151">View All Comments</a> Latest 10 Comments:<div class="commentbody" id="13786">
+
+		<p>Thanks for the code!!</p>
+
+		<p class="postedby">Posted by <a href="http://www.roseindia.net/java/example/java/io/CopyFile.shtml">Ajay</a> on Wednesday, 04.11.07 @ 01:58am | #13786</p>
+
+		
+</div><div class="commentbody" id="10812">
+
+		<p>This is fine, but can you tell me how to copy muliple files from server to client side at a time. I reached upto copy one file from server to client side by using servlet but I didn't get how to download multiple files.<br />
+If you know something about this, please tell me. I am kindly waiting for your reply.<br />
+Thank you.....</p>
+
+		<p class="postedby">Posted by <a href="http://www.roseindia.net/java/example/java/io/CopyFile.shtml">Harish</a> on Tuesday, 03.6.07 @ 11:06am | #10812</p>
+
+		
+</div></div><script language="javascript">
+
+function form_Validator(form)
+{
+
+  if (form.name.value == "")
+  {
+    alert("Please enter your name.");
+    form.name.focus();
+	return (false);
+     }
+
+  if (form.message.value == "")
+  {
+    alert("Please enter your message.");
+    form.message.focus();
+    return (false);
+  }
+  
+    if (form.validationid.value == "")
+  {
+    alert("Please enter validation code.");
+    form.validationid.focus();
+	return (false);
+     }
+
+  return (true);
+  }
+  //-->
+  </script>
+
+<a name="post">
+<div id="submitcomment" class="submitcomment">
+<form name="submitcomment" method="post" action="/usercomments/submitcomment.php" onSubmit=" return form_Validator(this)">
+<table width="80%">
+		<tr>
+				<th colspan="2"><h3 class="formtitle">Leave your comment:</h3></th>
+		</tr>
+		<tr>
+
+				<th scope="row"><p class="req">Name:</p></th>
+				<td><input class="form" tabindex="1" id="name" name="name" /></td>
+		</tr>
+		<tr>
+				<th scope="row"><p class="opt">Email:</p></th>
+				<td><input class="form" tabindex="2" id="email" name="email" /></td>
+		</tr>
+		<tr>
+
+				<th scope="row"><p class="opt">URL:</p></th>
+				<td><input class="form" tabindex="3" id="url" name="url" value="http://www.roseindia.net/java/example/java/io/CopyFile.shtml" /></td>
+		</tr>
+		<tr valign="top">
+				<th scope="row"><p class="req">Comments:</p><br /></th>
+				<td><textarea class="formtext" tabindex="4" id="message" name="message" rows="10" cols="50"></textarea></td>
+		</tr>
+
+		<tr>
+				<th scope="row"><p class="opt">Enter Code:</p></th>
+				<td><input class="form" tabindex="2" id="validationid" name="validationid" /><iframe src="http://www.roseindia.net/usercomments/gen.php" width="150" height="29" scrolling="no" border="0"></iframe></td>
+		</tr>
+		<tr>	
+				<td>&nbsp;</td>
+				<td><input type="submit" name="post" class="submit" value="Submit Comment" /><br />
+				<p>Note:  Emails will not be visible or used in any way, and are not required.  Please keep comments relevant. Any content deemed inappropriate or offensive may be edited and/or deleted. </p>
+
+<p>No HTML code is allowed.  Line breaks will be converted automatically.  URLs will be auto-linked.  Please use BBCode to format your text.</p>
+
+</td>
+		</tr>
+</table>
+<input type="hidden" name="tuturl" value="" />
+<input type="hidden" name="tutid2" value="151" />
+</form>
+
+
+</div>
+
+
+
+</td>
+<td width="122" valign="top">
+
+
+				<table border="0" cellspacing="0" cellpadding="4">
+
+
+					<tr>
+					<td align="left"  valign="top">
+						
+
+						<font size="2">
+						&nbsp;&nbsp;<a href="http://www.roseindia.net/jdotutorials" style="font-family: Arial; font-size: 8pt; color: #000080">JDO Tutorials</a><br>
+
+						&nbsp;&nbsp;<a href="http://www.roseindia.net/eai" style="font-family: Arial; font-size: 8pt; color: #000080">EAI Articles</a><br>
+
+						&nbsp;&nbsp;<a href="http://www.roseindia.net/struts/index.shtml" style="font-family: Arial; font-size: 8pt; color: #000080">Struts Tutorials</a><br>
+
+						&nbsp;&nbsp;<a href="http://www.roseindia.net/java" style="font-family: Arial; font-size: 8pt; color: #000080">Java Tutorials</a><br>
+
+						&nbsp;&nbsp;<a href="http://www.roseindia.net/javacertification/" style="font-family: Arial; font-size: 8pt; color: #000080">Java Certification</a><br>
+						</font>
+		
+					</td>
+					</tr>
+
+					<tr>
+					<td valign="top" align="center" height="600">
+					&nbsp;<br>
+<p align="center"><b><font color="#000080">Useful Links</font></b></p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-0714075272818912";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000080";
+google_color_text = "000080";
+google_color_url = "000080";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		
+
+				</td>
+					</tr>
+
+				<tr>
+				<td valign="top" align="center">
+
+
+<script language="javascript">
+function validateName(objForm){
+
+   if(objForm.name.value.length==0)
+   {
+     alert("Please Enter your Friend Name!");
+	 objForm.name.focus();
+	 return false;
+   }
+
+   return true;
+}
+
+</script>
+					<form action="/sendlink/mailForm.php" method="post" onsubmit="return validateName(this)">
+					 <center>
+					 <table border="0">
+					 <tr><td colspan="2" align="center"><b><font color="#000080">Tell A Friend</font></b></td></tr>
+					 <tr><td align= "center"> <font color="#000080"> Your Friend Name</font></td></tr><tr>
+					<td> <input type="text" name="name" size="17"></td>
+					</tr>
+					<tr>
+
+					<td align="center" colspan="2"><input type="submit" value="  OK  " name="btnOK"></td>
+					</tr>
+					
+					</table>
+					</center>
+					</form>
+
+
+				</td>
+				</tr>
+
+					<tr>
+					<td align="center">
+					<form action="http://roseindia.net/info/advancesearch/results.jsp" method="get">
+
+					  <font style="font-family: Arial; font-size: 11pt; color: #000080"><b>Search Tutorials</b><br></font>
+						  <input type="hidden" name="todo" value="search">
+							<input type="text" name="query" size="10" value="Java Tutorial"><input type="hidden" name="maxresults" size="4" value="20"/><input type="Submit" name="Submit" value="GO">	
+					 </form>
+					  </td>
+					</tr>
+
+					<tr>
+					<td align="center" height="80">
+
+				<a href="http://www.roseindia.net/solution/index.shtml"><img border="0" src="http://www.roseindia.net/images/haveproject.gif" width="120" height="60"></a>
+
+					</td>
+					</tr>
+
+
+					<tr>
+					<td align="center" height="200">
+
+					<a href="http://www.roseindia.net/linux/distributions/alllinuxdistributions.shtml"><img src="/images/alllinux.gif" border="0"></a>
+
+
+
+					</td>
+					</tr>
+
+				</table>
+				
+
+
+
+<br>&nbsp;<br>
+<br>&nbsp;<br>
+
+
+
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+  <table width="100%" border="0" align="center" cellPadding="0" cellSpacing="0">
+    <tbody>
+
+
+
+      <tr>
+        <td align="middle" width="100%">
+
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-0714075272818912";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_ad_format = "728x90_as";
+			google_ad_type = "text_image";
+			google_ad_channel ="";
+			google_color_border = "FFFFFF";
+			google_color_bg = "FFFFFF";
+			google_color_link = "FF0000";
+			google_color_url = "0000FF";
+			google_color_text = "FF0000";
+			//--></script>
+			<script type="text/javascript"
+			  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+        </td>
+      </tr>
+
+
+
+    <tr>
+	 <td align="center">
+			<a name="book">&nbsp;</a>
+     </td>
+	</tr>
+
+
+    <tr>
+      <td align="middle" width="100%">
+
+
+					<div align="center">
+					  <center>
+					  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tr>
+						  <td width="23%" align="middle"  valign="top">
+						  
+								&nbsp;
+
+						  </td>
+						  <td width="53%" align="middle" >
+						  
+								<script type="text/javascript"><!--
+								  amazon_ad_tag = "roseindinet-20";  amazon_ad_width = "600";  amazon_ad_height = "520";//--></script>
+								<script type="text/javascript" src="http://www.assoc-amazon.com/s/ads.js"></script>
+
+									  <br>
+
+								<script type="text/javascript"><!--
+								  amazon_ad_tag = "roseindinet-20";  amazon_ad_width = "600";  amazon_ad_height = "520";//--></script>
+								<script type="text/javascript" src="http://www.assoc-amazon.com/s/ads.js"></script>
+
+						  </td>
+						  <td width="24%" align="middle"  valign="top">
+
+							&nbsp;
+						  </td>
+						</tr>
+
+						<tr>
+						  <td colspan="3" align="middle"  valign="top">
+						  
+									<iframe src="http://rcm.amazon.com/e/cm?t=roseindinet-20&o=1&p=48&l=bn1&mode=software&browse=497024&fc1=000000&lt1=&lc1=3366FF&bg1=FFFFFF&f=ifr" marginwidth="0" marginheight="0" width="728" height="90" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+
+						  </td>
+						 </tr>
+
+						<tr>
+						  <td colspan="3" align="middle"  valign="top">
+						  
+									<iframe src="http://rcm.amazon.com/e/cm?t=roseindinet-20&o=1&p=48&l=bn1&mode=software&browse=497024&fc1=000000&lt1=&lc1=3366FF&bg1=FFFFFF&f=ifr" marginwidth="0" marginheight="0" width="728" height="90" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+
+						  </td>
+						 </tr>
+
+
+						<tr>
+						  <td colspan="3" align="middle"  valign="top">
+						  
+									<iframe src="http://rcm.amazon.com/e/cm?t=roseindinet-20&o=1&p=48&l=bn1&mode=software&browse=497024&fc1=000000&lt1=&lc1=3366FF&bg1=FFFFFF&f=ifr" marginwidth="0" marginheight="0" width="728" height="90" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+
+						  </td>
+						 </tr>
+
+
+					  </table>
+					  </center>
+					</div>
+
+
+
+      </td>
+    </tr>
+
+      <tr>
+        <td align="middle" width="100%">
+          <hr color="#000080" SIZE="1">
+        </td>
+      </tr>
+
+    <tr>
+          <td align="middle" colSpan="3" width="100%">
+
+                      <p align="center"><font size="1" face="arial">
+                        <a href="http://www.roseindia.net"  style="font-family: Arial; font-size: 8pt" >Home</a> 
+
+                      | <a href="http://www.roseindia.net/jsp/jsp.shtml"  style="font-family: Arial; font-size: 8pt">JSP</a>
+                      | <a href="http://www.roseindia.net/javabeans/javabeans.shtml"  style="font-family: Arial; font-size: 8pt">EJB</a> 
+                      | <a href="http://www.roseindia.net/jdbc/jdbc.shtml"  style="font-family: Arial; font-size: 8pt">JDBC</a>
+                      | <a href="http://www.roseindia.net/servlets/servlets.htm"  style="font-family: Arial; font-size: 8pt">Java Servlets</a> 
+                      | <a href="http://www.roseindia.net/wap/index.htm"  style="font-family: Arial; font-size: 8pt">WAP</a>&nbsp;
+                      | <a href="http://www.roseindia.net/freehosting/freejsphosting.htm "  style="font-family: Arial; font-size: 8pt">Free JSP Hosting</a>&nbsp;
+					  | <a href="http://www.roseindia.net/sourcecode/searchengine/index.htm"  style="font-family: Arial; font-size: 8pt">Search Engine</a> 
+                      | <a href="http://www.roseindia.net/newsletter/"  style="font-family: Arial; font-size: 8pt">News Archive</a>
+                      | <a href="http://www.roseindia.net/jboss/index.htm"  style="font-family: Arial; font-size: 8pt">Jboss 3.0 tutorial</a> 
+                      | <a href="http://www.roseindia.net/linux/"  style="font-family: Arial; font-size: 8pt">Free Linux CD's</a>  
+                      | <a href="http://www.roseindia.net/forum/"  style="font-family: Arial; font-size: 8pt">Forum</a> 
+					   </font></p>
+
+                      <p align="center"><font size="1" face="arial">
+                      <a href="http://www.roseindia.net/businesssolutions/aboutroseindia.shtml"  style="font-family: Arial; font-size: 8pt" >About Us</a> | 
+					  <a href="http://www.roseindia.net/advertisewithus/advertisewithroseindia.shtml"  style="font-family: Arial; font-size: 8pt">Advertising On RoseIndia.net</a>
+                      </p>
+		</td>
+    </tr>
+</table>
+</td>
+	</tr>
+
+
+    <tr>
+      <td align="middle" width="100%">
+       <p>&nbsp;&nbsp;</p>
+
+      </td>
+    </tr>
+
+     <tr>
+        <td align="middle" width="100%">
+          <p align="center"><font color="#000080">Send your comments, Suggestions or Queries regarding this site at <a href="mailto:roseindia_net@yahoo.com">roseindia_net@yahoo.com.</a></font></p>
+        </td>
+</tr>
+
+    <tr>
+      <td align="middle" width="100%">
+        <p align="center"><font color="#000080">Copyright © 2007. All rights reserved.</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="middle" width="100%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    </tbody>
+  </table>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-287488-1";
+urchinTracker();
+</script>
+<!-- Bottom -->
+</body>
+
+</html>
